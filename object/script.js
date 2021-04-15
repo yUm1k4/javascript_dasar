@@ -8,3 +8,7 @@ var mhs = {
         provinsi: "Jawa Barat"
     }
 };
+
+mhs.nama // hasil: Zainudin
+mhs.alamat.jalan // hasil: Jl. Raya Narogong Km. 12
+mhs.ips[2] // hasil: 3.2
